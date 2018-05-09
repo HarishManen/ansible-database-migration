@@ -1,0 +1,5 @@
+[production]
+centos ansible_host=192.168.0.18 ansible_user=root
+ 
+[development]
+neo_development ansible_host=192.168.0.15 ansible_user=root
